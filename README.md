@@ -3,7 +3,7 @@ Liri Node appp is a command line application to search for information about a m
 It will take 4 arguments to call upon. movie-this for information about a movie, spotify-this-song for information about a song, concert-this for information about an artist's upcoming concert date, and do-what-it-says which will read a seperate random-txt file and does what the code says.
 
 ## Video
-[link to Demo!](https://youtu.be/dvKIiCeevw4)
+[Link to Demo!](https://youtu.be/dvKIiCeevw4)
 
 
 
